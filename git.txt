@@ -1,0 +1,11 @@
+git init
+git remote remove origin
+git remote add origin https://github.com/Golubytnik1/HomeWork4.git
+git add .
+git commit -m ''
+git push origin master
+git status
+git branch
+git checkout -b
+git checkout
+git merge
